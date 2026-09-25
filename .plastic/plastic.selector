@@ -1,3 +1,0 @@
-repository "AvatarLingua/Avatarlingua@4673070147418@cloud"
-  path "/"
-    smartbranch "/main/Avatarlingua-Backup" changeset "6"
